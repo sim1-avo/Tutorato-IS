@@ -1,6 +1,0 @@
-sviluppare il category partition per la convalida dell'esame
-testare con junit tutti i casi di test
-
-fgianneschi - slideshire
-
-gemma puttana
